@@ -1,0 +1,12 @@
+# Build output
+filemanager
+*.o
+
+# macOS metadata
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+.Rhistory
